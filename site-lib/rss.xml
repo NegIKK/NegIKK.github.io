@@ -1,25 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_mainVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian_mainVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 21 Feb 2026 13:07:42 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 21 Feb 2026 13:07:41 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Чек-лист]]></title><description><![CDATA[Дырки в стволе боковые - стандартно 12 сечений<img alt="Pasted image 20260116134321.png" src="files/pasted-image-20260116134321.png" target="_self">
-BaseUV
-CamoUV
-На скинах камо юв не делаетсяна 1к - 4px от границы и 8 между шеллами
-База - 30
-Лоу - 22.5
-Хай - 40
-<br><img alt="Pasted image 20260127132938.png" src="files/pasted-image-20260127132938.png" target="_self">
-Не делать швы на таких местах, на стыкахтретий бейк для подмазкиМожно хайку под хайку класть, но чекать АО. В целом должно быть норм, все равно отельно надо будет подмазыватьБейк бевел шейдера укупейнт настройки<br>
-<img alt="Pasted image 20260116141928.png" src="files/pasted-image-20260116141928.png" target="_self"> Bake Textures spp
-fbx
-pur Кидание на проверку:
-Собираем финальные фбх, ворлд и обычную. Собираем весь архив. Только после этого собираем в спп. После чего кидаем финальный архив и спп<br>
-<img alt="Pasted image 20260106142023.png" src="files/pasted-image-20260106142023.png" target="_self">Расположение геометрии для проверки лодов, снизу лоды, сверху обычная для сравнения. Расположить как можно ближе по высоте, лп и лодДополнительные каналыОпасити -&gt; Альфа Base Color
-Эмишн -&gt; вместо камо маски в mg в B-channel<br><img alt="Pasted image 20260112171950.png" src="files/pasted-image-20260112171950.png" target="_self">Не делаем нижнее подчеркивание у нумерации. Stock01, Stock02
-FBX — Имя проекта вместе с номером патча
-Материалы - Имя проекта без номера + суффиксы _mat
-_att_mat
-_world_mat
-_att_world_mat Текстуры — Имя проекта без номера патча + суффикс текстурной карты + _World
-Окно - Операции (Alt-F9)<br><img alt="Pasted image 20260113090406.png" src="files/pasted-image-20260113090406.png" target="_self">Импорт настроенных макросов<br><img alt="Pasted image 20260113090359.png" src="files/pasted-image-20260113090359.png" target="_self">Используем PowerToys PowerRenameЗамена части имени и так интуитивно понятнаЕсли прописать специальные символы в графу поиска, то можно добавитьсуффикс - $Префикс - ^Должна быть активна галка Использовать регулярные выражения<br><img alt="Pasted image 20260113093017.png" src="files/pasted-image-20260113093017.png" target="_self"><br><img alt="blender_Xsfow21gn7.gif" src="files/blender_xsfow21gn7.gif" target="_self">Лейзи сабдив<br>
-<img alt="Pasted image 20260129133600.png" src="files/pasted-image-20260129133600.png" target="_self">]]></description><link>чек-лист.html</link><guid isPermaLink="false">Заметки/Чек-лист.md</guid><pubDate>Thu, 15 Jan 2026 10:12:00 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TrustTunnel Client. Гайд]]></title><description><![CDATA[Альтернативное подключение к серваку. Иногда работает лучше чем наше старое. Запасной вариант на всякий случай. Я иногда пользуюсь ужеКачаем прогу
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[https://negikk.github.io/]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>https://negikk.github.io/</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 21 Feb 2026 13:13:53 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 21 Feb 2026 13:13:49 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[TrustTunnel Client. Гайд]]></title><description><![CDATA[Альтернативное подключение к серваку. Иногда работает лучше чем наше старое. Запасной вариант на всякий случай. Я иногда пользуюсь ужеКачаем прогу
 <a data-tooltip-position="top" aria-label="https://play.google.com/store/apps/details?id=com.adguard.trusttunnel" rel="noopener nofollow" class="external-link is-unresolved" href="https://play.google.com/store/apps/details?id=com.adguard.trusttunnel" target="_self">Android</a><br>
 <a data-tooltip-position="top" aria-label="https://apps.apple.com/us/app/trusttunnel/id6755807890" rel="noopener nofollow" class="external-link is-unresolved" href="https://apps.apple.com/us/app/trusttunnel/id6755807890" target="_self">Apple</a>В начале создадим профиль с правилами для нужных нам адресов
 Запускаем прогу и снизу переходим в Routing
@@ -40,4 +19,25 @@ matus.isgood.host Username:
 HTTP/2 Routing profile:
 [Выбираем профиль, который мы создали ранее] DNS:
 1.1.1.1
-Если куда-то не подключается то тупо дописываем сайт в список example.com без www, http// и прочего такого. Иногда этого недостаточно, для больших сервисов, тогда тупо гуглим чет типа "domain list telegram", пример с телегой. Обычно первая или вторая ссылка содержат все что нам нужно]]></description><link>trusttunnel-client.-гайд.html</link><guid isPermaLink="false">Заметки/TrustTunnel Client. Гайд.md</guid><pubDate>Wed, 18 Feb 2026 15:57:00 GMT</pubDate></item></channel></rss>
+Если куда-то не подключается то тупо дописываем сайт в список example.com без www, http// и прочего такого. Иногда этого недостаточно, для больших сервисов, тогда тупо гуглим чет типа "domain list telegram", пример с телегой. Обычно первая или вторая ссылка содержат все что нам нужно]]></description><link>trusttunnel-client.-гайд.html</link><guid isPermaLink="false">Заметки/TrustTunnel Client. Гайд.md</guid><pubDate>Wed, 18 Feb 2026 15:57:00 GMT</pubDate></item><item><title><![CDATA[Чек-лист]]></title><description><![CDATA[Дырки в стволе боковые - стандартно 12 сечений<img alt="Pasted image 20260116134321.png" src="files/pasted-image-20260116134321.png" target="_self">
+BaseUV
+CamoUV
+На скинах камо юв не делаетсяна 1к - 4px от границы и 8 между шеллами
+База - 30
+Лоу - 22.5
+Хай - 40
+<br><img alt="Pasted image 20260127132938.png" src="files/pasted-image-20260127132938.png" target="_self">
+Не делать швы на таких местах, на стыкахтретий бейк для подмазкиМожно хайку под хайку класть, но чекать АО. В целом должно быть норм, все равно отельно надо будет подмазыватьБейк бевел шейдера укупейнт настройки<br>
+<img alt="Pasted image 20260116141928.png" src="files/pasted-image-20260116141928.png" target="_self"> Bake Textures spp
+fbx
+pur Кидание на проверку:
+Собираем финальные фбх, ворлд и обычную. Собираем весь архив. Только после этого собираем в спп. После чего кидаем финальный архив и спп<br>
+<img alt="Pasted image 20260106142023.png" src="files/pasted-image-20260106142023.png" target="_self">Расположение геометрии для проверки лодов, снизу лоды, сверху обычная для сравнения. Расположить как можно ближе по высоте, лп и лодДополнительные каналыОпасити -&gt; Альфа Base Color
+Эмишн -&gt; вместо камо маски в mg в B-channel<br><img alt="Pasted image 20260112171950.png" src="files/pasted-image-20260112171950.png" target="_self">Не делаем нижнее подчеркивание у нумерации. Stock01, Stock02
+FBX — Имя проекта вместе с номером патча
+Материалы - Имя проекта без номера + суффиксы _mat
+_att_mat
+_world_mat
+_att_world_mat Текстуры — Имя проекта без номера патча + суффикс текстурной карты + _World
+Окно - Операции (Alt-F9)<br><img alt="Pasted image 20260113090406.png" src="files/pasted-image-20260113090406.png" target="_self">Импорт настроенных макросов<br><img alt="Pasted image 20260113090359.png" src="files/pasted-image-20260113090359.png" target="_self">Используем PowerToys PowerRenameЗамена части имени и так интуитивно понятнаЕсли прописать специальные символы в графу поиска, то можно добавитьсуффикс - $Префикс - ^Должна быть активна галка Использовать регулярные выражения<br><img alt="Pasted image 20260113093017.png" src="files/pasted-image-20260113093017.png" target="_self"><br><img alt="blender_Xsfow21gn7.gif" src="files/blender_xsfow21gn7.gif" target="_self">Лейзи сабдив<br>
+<img alt="Pasted image 20260129133600.png" src="files/pasted-image-20260129133600.png" target="_self">]]></description><link>чек-лист.html</link><guid isPermaLink="false">Заметки/Чек-лист.md</guid><pubDate>Thu, 15 Jan 2026 10:12:00 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
