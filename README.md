@@ -1,1 +1,0 @@
-# NegIKK.github.io
