@@ -1,4 +1,14 @@
-title: My Site
+title: NegIKK
 markdown: kramdown
-theme: minima
-  skin: dark
+
+# Подключаем свежую версию из репозитория
+remote_theme: jekyll/minima
+
+# Выбираем скин (dark или auto для подстройки под систему)
+minima:
+  skin: dark 
+
+# Добавляем необходимый плагин
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
