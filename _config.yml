@@ -1,3 +1,4 @@
 title: My Site
 markdown: kramdown
-theme: midnight
+theme: minima
+  skin: dark
