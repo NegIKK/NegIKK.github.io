@@ -67,7 +67,7 @@ kanata.exe --cfg config.kbd
 
 ## Сокращения для модификаторов
 
-![[./Заметки/files/Pasted image 20260110133347.png|Pasted image 20260110133347.png]]
+![Pasted image 20260110133347.png](./%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/files/Pasted%20image%2020260110133347.png.png)
 
 ## Ввод комбинаций клавиш (Аккорды)
 
