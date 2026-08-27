@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-08-27T21:07:00.036Z
+modified: 2026-08-27T21:08:55.421Z
 tags:
   - впн
 ---
@@ -34,14 +34,7 @@ tags:
 
 # Настройка на Android
 
-```embed
-title: "GitHub - ExclaveNetwork/Exclave: Proxy client"
-image: "https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134e7643e2aeee7a2177027b02b89/ExclaveNetwork/Exclave"
-description: "Proxy client. Contribute to ExclaveNetwork/Exclave development by creating an account on GitHub."
-url: "https://github.com/ExclaveNetwork/Exclave"
-favicon: ""
-aspectRatio: "50"
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/ExclaveNetwork/Exclave" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">GitHub - ExclaveNetwork/Exclave: Proxy client</div><div class="auto-card-link-description">Proxy client. Contribute to ExclaveNetwork/Exclave development by creating an account on GitHub.</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134e7643e2aeee7a2177027b02b89/ExclaveNetwork/Exclave" class="auto-card-link-thumbnail" /></a></div>
 
 Устанавливаем Exclave. Качается по аналогии с инструкцией для ПК
 
