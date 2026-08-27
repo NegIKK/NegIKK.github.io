@@ -1,19 +1,12 @@
 ---
 publish: true
 created: 2026-08-27 19:42
-modified: 2026-08-27T20:51:45.498Z
+modified: 2026-08-27T21:06:57.441Z
 tags:
   - впн
 ---
 
-```embed
-title: "mieru/docs/server-install.md at main · enfein/mieru"
-image: "https://opengraph.githubassets.com/93563a97e91cd9959b3780b2fe465d87a2f496827b862aa27c1c8b703394d7bc/enfein/mieru"
-description: "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。 - enfein/mieru"
-url: "https://github.com/enfein/mieru/blob/main/docs/server-install.md"
-favicon: ""
-aspectRatio: "50"
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/enfein/mieru/blob/main/docs/server-install.md" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">mieru/docs/server-install.md at main · enfein/mieru</div><div class="auto-card-link-description">mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。 - enfein/mieru</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/e3ecc3721ebf2f797ee8d7adc872624093bba9249f66f40fccd834d6a53c525a/enfein/mieru" class="auto-card-link-thumbnail" /></a></div>
 
 # Настройка сервера
 

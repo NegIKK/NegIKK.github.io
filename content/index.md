@@ -2,7 +2,7 @@
 publish: true
 title: Главная
 created: 2026-08-27 22:23
-modified: 2026-08-27T20:57:50.895Z
+modified: 2026-08-27T21:07:20.676Z
 ---
 
 - [[3x-ui. Установка]]

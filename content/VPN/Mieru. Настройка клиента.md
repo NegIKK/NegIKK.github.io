@@ -1,21 +1,14 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-08-27T20:51:42.879Z
+modified: 2026-08-27T21:07:00.036Z
 tags:
   - впн
 ---
 
 # Настройка на ПК
 
-```embed
-title: "GitHub - qr243vbi/nekobox: NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift"
-image: "https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407dc4c5ba685f502f104b72dd9daf/qr243vbi/nekobox"
-description: "NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift - qr243vbi/nekobox"
-url: "https://github.com/qr243vbi/NekoBox"
-favicon: ""
-aspectRatio: "50"
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/qr243vbi/NekoBox" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">GitHub - qr243vbi/nekobox: NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift</div><div class="auto-card-link-description">NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift - qr243vbi/nekobox</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407dc4c5ba685f502f104b72dd9daf/qr243vbi/nekobox" class="auto-card-link-thumbnail" /></a></div>
 
 Качаем в releases, справа, последнюю версию. В большинстве случаев нужная нам версия - windows64. Устанавливаем или распаковываем папку из архива. Запускаем
 
