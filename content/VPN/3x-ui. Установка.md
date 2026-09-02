@@ -1,12 +1,19 @@
 ---
 publish: true
 created: 2026-08-26 16:38
-modified: 2026-08-27T21:07:04.293Z
+modified: 2026-09-02T10:47:01.522Z
 tags:
   - впн
 ---
 
-<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/MHSanaei/3x-ui" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">GitHub - MHSanaei/3x-ui: Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)</div><div class="auto-card-link-description">Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)  - MHSanaei/3x-ui</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/feb53cde6d67e663a94f7d602824e5bba5b3c50a4e2133a2b153fb0f67f9ce05/MHSanaei/3x-ui" class="auto-card-link-thumbnail" /></a></div>
+```cardlink
+url: https://github.com/MHSanaei/3x-ui
+title: "GitHub - MHSanaei/3x-ui: Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)"
+description: "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)  - MHSanaei/3x-ui"
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/feb53cde6d67e663a94f7d602824e5bba5b3c50a4e2133a2b153fb0f67f9ce05/MHSanaei/3x-ui
+```
 
 разворачиваем 3x-ui стандартной командой
 
