@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-09-14T15:03:38.141Z
+modified: 2026-09-14T15:21:50.804Z
 tags:
   - впн
 ---
@@ -66,3 +66,43 @@ image: https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134
 Не забываем настроить раздельное проксирование для приложений. Это ОЧЕНЬ ВАЖНО!
 
 ![[Заметки/files/Pasted image 20260827205352.png|334]]![[Заметки/files/Pasted image 20260827205407.png|334]]
+
+# iOS
+
+Тут можно использовать Clash Mi
+
+```cardlink
+url: https://github.com/KaringX/clashmi
+title: "GitHub - KaringX/clashmi: Clash Mihomo for iOS/MacOS/Android/Windows/Linux"
+description: "Clash Mihomo for iOS/MacOS/Android/Windows/Linux. Contribute to KaringX/clashmi development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://repository-images.githubusercontent.com/966153123/b5b77420-ac25-420e-9483-c7fafebe2204
+```
+
+Насколько мне известно, в существующие программы можно только импортировать файл. Если вам его не скинули, то можно сделать самому.
+
+Создаем текстовый документ. Копируем туда шаблон ниже. Заполняем обязательные поля `server`, `port-range`, `username`, `password`, остальные по необходимости.
+
+```
+proxies:
+  - name: server1
+    type: mieru
+    server: 1.1.1.1
+    port-range: 9000-9010
+    transport: TCP
+    udp: false
+    username: 123
+    password: 123
+    multiplexing: MULTIPLEXING_HIGH
+```
+
+Чтобы сохранить, жмем Ctrl-Shift-S и выбираем "Все файлы" и пишем любое название с расширением `.yaml`.
+
+Пример: `mieru-config.yaml`
+
+![[VPN/files/Pasted image 20260914171421.png]]
+
+Потом скидываем это на телефон и открываем через приложуху.
+
+У меня нет Афони, поэтому не могу приложить скриншоты (((
