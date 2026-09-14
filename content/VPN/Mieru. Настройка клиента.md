@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-09-14T15:21:50.804Z
+modified: 2026-09-14T15:23:43.722Z
 tags:
   - впн
 ---
@@ -16,6 +16,8 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407dc4c5ba685f502f104b72dd9daf/qr243vbi/nekobox
 ```
+
+Модифицированный [Некобокс](https://github.com/qr243vbi/NekoBox)
 
 Качаем в releases, справа, последнюю версию. В большинстве случаев нужная нам версия - windows64. Устанавливаем или распаковываем папку из архива. Запускаем
 
@@ -55,7 +57,7 @@ favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134e7643e2aeee7a2177027b02b89/ExclaveNetwork/Exclave
 ```
 
-Устанавливаем Exclave. Качается по аналогии с инструкцией для ПК
+Устанавливаем [Exclave](https://github.com/ExclaveNetwork/Exclave). Качается по аналогии с инструкцией для ПК
 
 ## Подключение
 
@@ -69,7 +71,7 @@ image: https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134
 
 # iOS
 
-Тут можно использовать Clash Mi
+Тут можно использовать [Clash Mi](https://github.com/KaringX/clashmi)
 
 ```cardlink
 url: https://github.com/KaringX/clashmi
