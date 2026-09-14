@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27 19:42
-modified: 2026-09-02T10:47:16.121Z
+modified: 2026-09-07T16:30:09.783Z
 tags:
   - впн
 ---
@@ -17,7 +17,13 @@ image: https://opengraph.githubassets.com/e3ecc3721ebf2f797ee8d7adc872624093bba9
 
 # Настройка сервера
 
-Вставляем команду и соглашаемся с кстановкой "Mita"
+```
+curl -fSsLO https://raw.githubusercontent.com/enfein/mieru/refs/heads/main/tools/setup.py
+chmod +x setup.py
+sudo python3 setup.py
+```
+
+Вставляем команду и соглашаемся с установкой "Mita"
 ![[Заметки/files/Pasted image 20260827194433.png]]
 
 Подтверждаем, что хотим сконфигурировать сервер

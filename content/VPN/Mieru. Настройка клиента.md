@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-09-02T10:47:10.558Z
+modified: 2026-09-14T14:56:24.864Z
 tags:
   - впн
 ---
@@ -23,8 +23,6 @@ image: https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407d
 
 Нажимаем Профили - Новый профиль
 ![[Заметки/files/Pasted image 20260827203749.png]]
-
-### 3 хуйня
 
 Вбиваем параметры, которые нам должен дать владелец сервера
 ![[Заметки/files/Pasted image 20260827203924.png]]
