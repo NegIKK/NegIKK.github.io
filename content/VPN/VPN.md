@@ -1,9 +1,10 @@
 ---
-publish: true
-created: 2026-09-02 12:45
-modified: 2026-09-02T10:51:03.370Z
+pin: false
+date: 2026-09-02 12:45
 tags:
   - впн
+Parent:
+  - "[[index]]"
 ---
 
 ## Клиенты

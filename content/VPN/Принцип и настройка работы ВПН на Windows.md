@@ -1,9 +1,12 @@
 ---
-publish: true
-created: 2026-09-01 19:08
-modified: 2026-09-02T10:49:53.513Z
+pin: false
+date: 2026-09-01 19:08
 tags:
   - впн
+Parent:
+  - "[[Интернет и ВПН/VPN|VPN]]"
+  - "[[index]]"
+  - "[[VPN/VPN|VPN]]"
 ---
 
 В отличие от других систем, Виндовс не умеет из коробки делать туннелирование отдельных приложений. Она либо пускает весь трафик через туннель, либо никакой. Поэтому мы подключаемся к ВПН силами сторонних приложений.
@@ -44,24 +47,11 @@ IP - цифры перед двоеточием, порт - после. Это �
 
 Версия для Chome (и любого другого браузера):
 
-```cardlink
-url: https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj?hl=ru&pli=1
-title: "SmartProxy - Интернет-магазин Chrome"
-description: "SmartProxy автоматически включит/отключит прокси для сайтов, которые вы посещаете, на основе настраиваемых шаблонов."
-host: chromewebstore.google.com
-favicon: https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png
-image: https://lh3.googleusercontent.com/xaBq9psBu2W5BG2z5gGRGZRQpguaRhgYxkk2dFP7iP_V1HP1aptEWPoIgkpbSQa105uoXIIjZlq4bXADO-O8FB_b=s128-rj-sc0x00ffffff
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj?hl=ru&amp;pli=1" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">SmartProxy - Интернет-магазин Chrome</div><div class="auto-card-link-description">SmartProxy автоматически включит/отключит прокси для сайтов, которые вы посещаете, на основе настраиваемых шаблонов.</div><div class="auto-card-link-host"><span>chromewebstore.google.com</span></div></div><img draggable="false" src="https://lh3.googleusercontent.com/xaBq9psBu2W5BG2z5gGRGZRQpguaRhgYxkk2dFP7iP_V1HP1aptEWPoIgkpbSQa105uoXIIjZlq4bXADO-O8FB_b=s128-rj-sc0x00ffffff" class="auto-card-link-thumbnail" /></a></div>
 
 Версия для Firefox (для нетакусей):
 
-```cardlink
-url: https://addons.mozilla.org/ru/firefox/addon/smartproxy/
-title: "SmartProxy – скачайте это расширение для 🦊 Firefox (ru)"
-description: "Скачать «SmartProxy» для Firefox. SmartProxy is a smart automatic proxy switcher that will automatically enable/disable proxy for the sites you visit, based on customizable rules."
-host: addons.mozilla.org
-image: https://addons.mozilla.org/user-media/previews/full/339/339390.png?modified=1762056532
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://addons.mozilla.org/ru/firefox/addon/smartproxy/" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">SmartProxy – скачайте это расширение для 🦊 Firefox (ru)</div><div class="auto-card-link-description">Скачать «SmartProxy» для Firefox. SmartProxy is a smart automatic proxy switcher that will automatically enable/disable proxy for the sites you visit, based on customizable rules.</div><div class="auto-card-link-host"><span>addons.mozilla.org</span></div></div><img draggable="false" src="https://addons.mozilla.org/user-media/previews/full/339/339390.png?modified=1762056532" class="auto-card-link-thumbnail" /></a></div>
 
 После установки появится иконка сверху (или в подменю, зависит от настроек). Нажимаем на иконку расширения, ставим режим `Умный прокси` и заходим в настройки
 ![[Заметки/files/Pasted image 20260902121651.png]]

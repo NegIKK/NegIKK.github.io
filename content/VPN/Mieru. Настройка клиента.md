@@ -1,23 +1,14 @@
 ---
 publish: true
 created: 2026-08-27 20:25
-modified: 2026-09-14T15:23:43.722Z
+modified: 2026-09-18T20:41:27.927Z
 tags:
   - впн
 ---
 
 # Настройка на ПК
 
-```cardlink
-url: https://github.com/qr243vbi/NekoBox
-title: "GitHub - qr243vbi/nekobox: NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift"
-description: "NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift - qr243vbi/nekobox"
-host: github.com
-favicon: https://github.githubassets.com/favicons/favicon.svg
-image: https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407dc4c5ba685f502f104b72dd9daf/qr243vbi/nekobox
-```
-
-Модифицированный [Некобокс](https://github.com/qr243vbi/NekoBox)
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/qr243vbi/NekoBox" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">GitHub - qr243vbi/nekobox: NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift</div><div class="auto-card-link-description">NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift - qr243vbi/nekobox</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407dc4c5ba685f502f104b72dd9daf/qr243vbi/nekobox" class="auto-card-link-thumbnail" /></a></div>
 
 Качаем в releases, справа, последнюю версию. В большинстве случаев нужная нам версия - windows64. Устанавливаем или распаковываем папку из архива. Запускаем
 
@@ -26,6 +17,10 @@ image: https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407d
 Нажимаем Профили - Новый профиль
 
 ![[Заметки/files/Pasted image 20260827203749.png]]
+
+Выбираем тип подключения `Mieru`
+
+![[Pasted image 20260918224103.png]]
 
 Вбиваем параметры, которые нам должен дать владелец сервера
 
@@ -48,16 +43,9 @@ image: https://opengraph.githubassets.com/155a6d7860cfb0149817064f174a96feea407d
 
 # Настройка на Android
 
-```cardlink
-url: https://github.com/ExclaveNetwork/Exclave
-title: "GitHub - ExclaveNetwork/Exclave: Proxy client"
-description: "Proxy client. Contribute to ExclaveNetwork/Exclave development by creating an account on GitHub."
-host: github.com
-favicon: https://github.githubassets.com/favicons/favicon.svg
-image: https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134e7643e2aeee7a2177027b02b89/ExclaveNetwork/Exclave
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/ExclaveNetwork/Exclave" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">GitHub - ExclaveNetwork/Exclave: Proxy client</div><div class="auto-card-link-description">Proxy client. Contribute to ExclaveNetwork/Exclave development by creating an account on GitHub.</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134e7643e2aeee7a2177027b02b89/ExclaveNetwork/Exclave" class="auto-card-link-thumbnail" /></a></div>
 
-Устанавливаем [Exclave](https://github.com/ExclaveNetwork/Exclave). Качается по аналогии с инструкцией для ПК
+Устанавливаем Exclave. Качается по аналогии с инструкцией для ПК
 
 ## Подключение
 
@@ -70,17 +58,6 @@ image: https://opengraph.githubassets.com/f9763e03d511f43bca596ca9982fae63b33134
 ![[Заметки/files/Pasted image 20260827205352.png|334]]![[Заметки/files/Pasted image 20260827205407.png|334]]
 
 # iOS
-
-Тут можно использовать [Clash Mi](https://github.com/KaringX/clashmi)
-
-```cardlink
-url: https://github.com/KaringX/clashmi
-title: "GitHub - KaringX/clashmi: Clash Mihomo for iOS/MacOS/Android/Windows/Linux"
-description: "Clash Mihomo for iOS/MacOS/Android/Windows/Linux. Contribute to KaringX/clashmi development by creating an account on GitHub."
-host: github.com
-favicon: https://github.githubassets.com/favicons/favicon.svg
-image: https://repository-images.githubusercontent.com/966153123/b5b77420-ac25-420e-9483-c7fafebe2204
-```
 
 Насколько мне известно, в существующие программы можно только импортировать файл. Если вам его не скинули, то можно сделать самому.
 
@@ -99,12 +76,8 @@ proxies:
     multiplexing: MULTIPLEXING_HIGH
 ```
 
-Чтобы сохранить, жмем Ctrl-Shift-S и выбираем "Все файлы" и пишем любое название с расширением `.yaml`.
+Чтобы сохранить, жмем Ctrl-Shift-S и выбираем "Все файлы" и пишем любое название с расширением .yaml.
 
-Пример: `mieru-config.yaml`
+Пример: name.yaml
 
 ![[VPN/files/Pasted image 20260914171421.png]]
-
-Потом скидываем это на телефон и открываем через приложуху.
-
-У меня нет Афони, поэтому не могу приложить скриншоты (((
