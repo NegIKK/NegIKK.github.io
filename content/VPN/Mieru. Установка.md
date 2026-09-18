@@ -1,12 +1,9 @@
 ---
-pin: false
-date: 2026-08-27 19:42
+publish: true
+created: 2026-08-27 19:42
+modified: 2026-09-18T20:44:23.998Z
 tags:
   - впн
-Parent:
-  - "[[Интернет и ВПН/VPN|VPN]]"
-  - "[[index]]"
-  - "[[VPN/VPN|VPN]]"
 ---
 
 <div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://github.com/enfein/mieru/blob/main/docs/server-install.md" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">mieru/docs/server-install.md at main · enfein/mieru</div><div class="auto-card-link-description">mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。 - enfein/mieru</div><div class="auto-card-link-host"><span>github.com</span></div></div><img draggable="false" src="https://opengraph.githubassets.com/e3ecc3721ebf2f797ee8d7adc872624093bba9249f66f40fccd834d6a53c525a/enfein/mieru" class="auto-card-link-thumbnail" /></a></div>
@@ -20,27 +17,35 @@ sudo python3 setup.py
 ```
 
 Вставляем команду и соглашаемся с установкой "Mita"
+
 ![[Заметки/files/Pasted image 20260827194433.png]]
 
 Подтверждаем, что хотим сконфигурировать сервер
+
 ![[Заметки/files/Pasted image 20260827194520.png]]
 
 Жмем enter. Все равно всегда сидим из под рута
+
 ![[Заметки/files/Pasted image 20260827194745.png]]
 
 Выбираем что хотим, мне нравится ставить имя и пароль самостоятельно
+
 ![[Заметки/files/Pasted image 20260827194758.png]]
 
 Оставляем TCP по умолчанию
+
 ![[Заметки/files/Pasted image 20260827195037.png]]
 
 Я выставляю диапазон портов. Не забудь их открыть в фаерволе
+
 ![[Заметки/files/Pasted image 20260827195053.png]]
 
 Применяем наши настройки
+
 ![[Заметки/files/Pasted image 20260827195109.png]]
 
 Видим, что сервер запустился. После всех настроек можно проверить работоспособность через `systemctl status mita`
+
 ![[Заметки/files/Pasted image 20260827195919.png]]
 
 # Настройка клиента
@@ -48,12 +53,15 @@ sudo python3 setup.py
 Настраиваем файл, который получит клиент, чтобы зайти на сервер
 
 Соглашаемся с генерацией конфигурации для клиента
+
 ![[Заметки/files/Pasted image 20260827195944.png]]
 
 Далее все прокликиваем на стандартных настройках
+
 ![[Заметки/files/Pasted image 20260827200008.png]]
 
 Пример конфигурации в формате json
+
 ![[Заметки/files/Pasted image 20260827200208.png]]
 
 ## Коротко о подключении
